@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '7.0'
   s.requires_arc = false
 
-  s.source_files = 'src/main/gen/objc/**/*.{h,m}'
-  s.public_header_files = 'src/main/gen/objc/**/*.h'
-  s.header_mappings_dir = 'src/main/gen/objc'
+  s.source_files = 'datatable/src/main/gen/objc/**/*.{h,m}'
+  s.public_header_files = 'datatable/src/main/gen/objc/**/*.h'
+  s.header_mappings_dir = 'datatable/src/main/gen/objc'
   # s.resources =
 
   s.dependency 'diffutils', '1.3.0.J2ObjC2.1.1'
