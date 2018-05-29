@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c30266-9690-4514-818e-0d19e9dba551" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/datatable_dependencies_datatable_dependencies_1_0_4_SNAPSHOT.xml" />
-      <change beforePath="$PROJECT_DIR$/datatable/pom.xml" afterPath="$PROJECT_DIR$/datatable/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/DataTableType.java" afterPath="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/DataTableType.java" />
-      <change beforePath="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/DataTableTypeRegistry.java" afterPath="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/DataTableTypeRegistry.java" />
-      <change beforePath="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/TypeFactory.java" afterPath="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/TypeFactory.java" />
-      <change beforePath="$PROJECT_DIR$/dependencies/pom.xml" afterPath="$PROJECT_DIR$/dependencies/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/matchers/pom.xml" afterPath="$PROJECT_DIR$/matchers/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/matchers/src/main/java/io/cucumber/datatable/TableDiffer.java" afterPath="$PROJECT_DIR$/matchers/src/main/java/io/cucumber/datatable/TableDiffer.java" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/datatable.podspec" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/datatable/out/" />
@@ -136,14 +129,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TableDiffer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TableDiffer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/matchers/src/main/java/io/cucumber/datatable/TableDiffer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="465">
+              <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datatable.podspec" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/datatable.podspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,16 +166,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="287">
               <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datatable/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1011,13 +1004,14 @@
         <option value="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/TypeFactory.java" />
         <option value="$PROJECT_DIR$/datatable/src/main/java/io/cucumber/datatable/DataTableTypeRegistry.java" />
         <option value="$PROJECT_DIR$/matchers/src/main/java/io/cucumber/datatable/TableDiffer.java" />
+        <option value="$PROJECT_DIR$/datatable.podspec" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="668" />
+    <option name="x" value="1280" />
     <option name="y" value="22" />
-    <option name="width" value="1897" />
+    <option name="width" value="1280" />
     <option name="height" value="1418" />
   </component>
   <component name="ProjectView">
@@ -1096,6 +1090,11 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1240,7 +1239,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="668" y="22" width="1897" height="1418" extended-state="0" />
+    <frame x="1280" y="22" width="1280" height="1418" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1254,10 +1253,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16657682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955405" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21994609" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1361,11 +1360,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/matchers/src/main/java/io/cucumber/datatable/TableDiffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="465">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datatable.podspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
