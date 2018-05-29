@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="datatable-dependencies.datatable-dependencies-1.0.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/build/libs/datatable-dependencies-1.0.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

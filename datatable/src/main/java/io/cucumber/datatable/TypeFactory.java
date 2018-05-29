@@ -1,13 +1,13 @@
 package io.cucumber.datatable;
 
-import io.cucumber.datatable.dependency.com.fasterxml.jackson.databind.JavaType;
+import com.fasterxml.jackson.databind.JavaType;
 
 import java.lang.reflect.Type;
 import java.util.List;
 
 final class TypeFactory {
-    private static final io.cucumber.datatable.dependency.com.fasterxml.jackson.databind.type.TypeFactory typeFactory
-            = io.cucumber.datatable.dependency.com.fasterxml.jackson.databind.type.TypeFactory.defaultInstance();
+    private static final com.fasterxml.jackson.databind.type.TypeFactory typeFactory
+            = com.fasterxml.jackson.databind.type.TypeFactory.defaultInstance();
 
     private TypeFactory(){
 

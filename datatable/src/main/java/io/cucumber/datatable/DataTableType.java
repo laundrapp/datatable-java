@@ -1,6 +1,6 @@
 package io.cucumber.datatable;
 
-import io.cucumber.datatable.dependency.com.fasterxml.jackson.databind.JavaType;
+import com.fasterxml.jackson.databind.JavaType;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

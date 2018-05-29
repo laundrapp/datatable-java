@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datatable/datatable.iml" filepath="$PROJECT_DIR$/.idea/modules/datatable/datatable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dependencies/datatable-dependencies.iml" filepath="$PROJECT_DIR$/.idea/modules/dependencies/datatable-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matchers/datatable-matchers.iml" filepath="$PROJECT_DIR$/.idea/modules/matchers/datatable-matchers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datatable-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/datatable-parent.iml" />
+    </modules>
+  </component>
+</project>

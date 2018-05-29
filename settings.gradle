@@ -1,0 +1,8 @@
+rootProject.name = 'datatable-parent'
+include ':datatable-dependencies'
+include ':datatable'
+include ':datatable-matchers'
+
+project(':datatable-dependencies').projectDir = "$rootDir/dependencies" as File
+project(':datatable').projectDir = "$rootDir/datatable" as File
+project(':datatable-matchers').projectDir = "$rootDir/matchers" as File
