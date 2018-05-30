@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
   # s.resources =
 
   s.dependency 'diffutils', '1.3.0.J2ObjC2.1.1'
-  s.dependency 'jackson-core', '2.9.3.J2ObjC2.1.1'
+  s.dependency 'jackson-databind', '2.9.3.J2ObjC2.1.1'
 
 end
